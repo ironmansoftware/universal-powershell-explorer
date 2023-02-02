@@ -1,0 +1,1 @@
+﻿New-PSUDashboard -Name "PowerShell Explorer" -FilePath "dashboards\PowerShell Explorer\PowerShell Explorer.ps1" -BaseUrl "/powershell-explorer" -Authenticated -AutoDeploy -Description "A dashboard that provides information about the current PowerShell environment."
